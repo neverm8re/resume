@@ -1,7 +1,7 @@
 /** @format */
 
 body {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat';
 	background-color: #e9f5e9;
 	padding: 40px;
 	font-style: normal;
@@ -48,7 +48,7 @@ body {
 
 .about {
 	text-align: justify;
-	font-weight: 500;
+	font-weight: 700;
 	font-size: 14px;
 	line-height: 24px;
 	width: 685px;
@@ -62,7 +62,7 @@ body {
 .title_block {
 	text-transform: uppercase;
 	font-weight: 700;
-	font-size: 22px;
+	font-size: 14px;
 	line-height: 27px;
 	margin: 0 0 20px 20px;
 }
@@ -79,7 +79,7 @@ body {
 
 .ulrlink {
 	font-weight: 400;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 24px;
 	text-decoration-line: underline;
 	color: #005fff;
@@ -96,7 +96,7 @@ body {
 	padding-top: 20px;
 	margin: 0;
 	font-weight: 600;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 20px;
 }
 
@@ -123,7 +123,7 @@ body {
 
 .data {
 	font-weight: 400;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 15px;
 	margin-bottom: 12px;
 	margin-top: 8px;
@@ -196,7 +196,7 @@ body {
 
 .sidebar-title {
 	font-weight: 700;
-	font-size: 22px;
+	font-size: 14px;
 	line-height: 27px;
 	color: black;
 	margin-bottom: 16px;
