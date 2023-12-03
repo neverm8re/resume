@@ -1,0 +1,296 @@
+/** @format */
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #e9f5e9;
+	padding: 40px;
+	font-style: normal;
+	color: black;
+}
+
+/*Full*/
+.full {
+	display: flex;
+	flex-direction: row-reverse;
+	background: ivory;
+	width: 1200px;
+	margin: 0 auto;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/*Right*/
+.right {
+	padding: 88px;
+}
+
+/*o mne*/
+.my-prof {
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 17px;
+	color: #ce82d1;
+	margin: 0 0 18px 0;
+}
+
+.name {
+	font-weight: 700;
+	font-size: 45px;
+	line-height: 55px;
+	margin: 0 0 28px 0;
+}
+
+/* about */
+.summary {
+	list-style: none;
+	padding: 0;
+	margin-bottom: 28px;
+}
+
+.about {
+	text-align: justify;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 24px;
+	width: 685px;
+	margin: 0;
+}
+
+.aboutme {
+	margin-bottom: 64px;
+}
+
+.title_block {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	margin: 0 0 20px 20px;
+}
+
+.project-box {
+	margin-bottom: 48px;
+}
+
+.texturl {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.ulrlink {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	text-decoration-line: underline;
+	color: #005fff;
+}
+
+.lifeway {
+	margin-bottom: 44px;
+}
+
+.work_title {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding-top: 20px;
+	margin: 0;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.education_prof {
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 20px;
+	color: #950e0e;
+	margin: 0 0 12px 0;
+}
+
+.work_job {
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 20px;
+	color: #950e0e;
+	padding-top: 6px;
+}
+
+.work {
+	margin-bottom: 20px;
+}
+
+.data {
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	margin-bottom: 12px;
+	margin-top: 8px;
+}
+
+.opis {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	margin: 0;
+}
+
+.add {
+	padding-top: 8px;
+}
+
+.opislist {
+	padding: 0 18px;
+	margin: 0px;
+}
+
+.education_place {
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px;
+	margin: 0 0 12px 0;
+}
+
+.education_list {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+/*Left*/
+.left {
+	width: 370px;
+	background: rgb(163, 97, 224);
+}
+
+.project {
+	margin: 4px 0;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.project_name {
+	display: flex;
+	justify-content: space-between;
+}
+
+.url-list {
+	padding: 0 0 0 18px;
+	margin: 0;
+}
+
+.photo {
+	margin-top: 80px;
+}
+
+.contact,
+.skill {
+	margin: 48px 0px 0px 48px;
+	padding: 0;
+}
+
+.sidebar-title {
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	color: black;
+	margin-bottom: 16px;
+}
+
+.contact-style {
+	display: inline-block;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: black;
+	width: 20px;
+}
+
+.contacs-sp {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	column-gap: 12px;
+	margin: 0;
+	margin-bottom: 6px;
+	padding: 0;
+}
+
+.contact-text {
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 24px;
+	color: black;
+	text-decoration: none;
+}
+
+.contact-text.link {
+	text-decoration: underline;
+}
+
+.contact-text:hover {
+	color: #4250b2;
+	text-decoration: underline;
+}
+
+.skill-list {
+	margin: 0;
+	padding: 0 0 0 18px;
+}
+
+.skill-list-sp {
+	color: #4250b2;
+}
+
+.skill-list-text {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: black;
+}
+
+.soft-list-sp {
+	color: #4250b2;
+}
+
+.soft-list-text {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: black;
+}
+
+.language {
+	display: inline-block;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: black;
+}
+
+.soft-list-text-add {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: black;
+}
+
+.project-info {
+	margin-bottom: 0;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	text-align: justify;
+}
+
+.project-role {
+	margin-top: 0;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 24px;
+}
